@@ -20,8 +20,6 @@ In this exercise, I learned and practiced:
 - Using Interfaces with Classes
 - Readonly Interface Properties
 - Optional Parameters and Properties
-- Compiling Interfaces to JavaScript
-- Interfaces 
 
 To run locally: 
 - Download the project files into a local folder 
